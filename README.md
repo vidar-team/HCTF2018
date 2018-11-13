@@ -1,4 +1,4 @@
-# HCTF 2018 Problem List
+# HCTF 2018 Challenge List
 
 ## Web
 
